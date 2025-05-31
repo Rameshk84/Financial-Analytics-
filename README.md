@@ -6,7 +6,7 @@
 This project is part of my Analytics Portfolio, designed to provide actionable insights into a financial company’s loan performance. The dashboard was built using a real-world banking dataset comprising over 38,000 loan applications and delivers end-to-end visibility into loan funding, repayments, interest rates, and default risks.
 
 ## 🧠 Project Objective
-The goal of this project was to help the financial company understand how loans are performing — including:
+The goal of this project was to help the financial company understand how loans are performing, including:
 
 Total funded vs. received amounts
 
@@ -91,7 +91,7 @@ A stakeholder-friendly PowerPoint deck was prepared to present the story behind 
 
 Integrated AI-generated financial narratives for automated commentary and reporting
 
-# 📌 What I Learn't From This Project
+# 📌 Key Learned From This Project
 How to build an end-to-end Power BI dashboard for financial data
 
 Applying business KPIs to banking and lending datasets
@@ -104,3 +104,5 @@ Visual storytelling with forecasting
 
 
 # 👋 Connect Here
+LinkedIn: https://www.linkedin.com/in/rameshk12/
+Portfolio: https://rameshda.webflow.io/
